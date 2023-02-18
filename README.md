@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Orgacord/The-Watcher/scr/img/banner.jpg)
 # The Watcher ⚠️Not finished⚠️
-Copyright © 2011-2022 Zero+ Team . All rights reserved.
+Copyright © 2018-2023 Zero+ Team . All rights reserved.
 
 ## 📔 Index
 - [General Information](#general-information)
